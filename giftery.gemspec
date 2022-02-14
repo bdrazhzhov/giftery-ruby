@@ -37,5 +37,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 13.0'
   spec.add_development_dependency 'rspec', '~> 3.0'
   spec.add_dependency 'digest', '~> 3.1.0'
-  spec.add_dependency 'http', '~> 5.0.0'
+  spec.add_dependency 'http', '~> 4.0'
 end
