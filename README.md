@@ -1,4 +1,4 @@
-# GifteryRuby
+# GifteryRuby [![Gem Version](https://badge.fury.io/rb/giftery.svg)](https://badge.fury.io/rb/giftery)
 The service API documentation link: https://docs.giftery.tech/b2b-api/
 
 ## Installation
